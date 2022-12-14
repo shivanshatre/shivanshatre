@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivansh Atre</h1>
-<h3 align="center">A passionate embedded enthusiast from India</h3>
-
+<h3 align="center">A passionate Embedded System Enthusiast from India</h3>
+<p align="center"><img src="https://media.tenor.com/t3YlogZLsjoAAAAd/embedded-security-for-internet-of-things.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshatre&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshatre" /> </p>
 
 - 🔭 I’m currently working on **Embedded Systems**
