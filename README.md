@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shivanshatre04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YGFLrR_3RC8YsjWuKZIMKL6aULSKeGvF/view?usp=share_link](https://drive.google.com/file/d/1YGFLrR_3RC8YsjWuKZIMKL6aULSKeGvF/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YGFLrR_3RC8YsjWuKZIMKL6aULSKeGvF/view?usp=share_link](https://drive.google.com/file/d/1YGFLrR_3RC8YsjWuKZIMKL6aULSKeGvF/view?usp=share_link](https://drive.google.com/drive/folders/1K9wq8n7BgGm5s5QcDBItKoABpk4k7e13?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
